@@ -1,6 +1,6 @@
 This project is my summer practice work. In this project, I just completed front-end side and I used an API provided to me by the company I worked for. The back-end side is made by them. 
 The project is started with create-react-native-app and not ejected. Since node_modules are not uploaded, you should download them by "npm install" command to use the app.
-Rest of the text is default React Native readme file.
+Rest of the text is default React Native readMe file.
 - Bilal ÖZLÜ
 
 
