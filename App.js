@@ -703,8 +703,7 @@ const styles = StyleSheet.create({
     borderColor: "rgba(240,240,240,0.7)",
     backgroundColor: "rgba(240,240,240,0.95)",
     justifyContent: 'center',
-    left: wid*0.6-6,
-    marginBottom:265
+    left: wid*0.6-6
   },
   oktext:  {
     fontSize: 18,
